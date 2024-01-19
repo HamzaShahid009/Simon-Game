@@ -3,3 +3,6 @@ Simon Game - an electronic game of memory skill. The buttons creates a series of
 
 # how to use
 simply open the html file in a browser
+
+# compatability
+The game is only playable on desktop devices
